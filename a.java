@@ -5,4 +5,5 @@ public static void main(String[] argv){
         System.out.println("add in master");
         System.out.println("add in master 2");
            System.out.println("..");
+System.out.println("add in dev");
 }
